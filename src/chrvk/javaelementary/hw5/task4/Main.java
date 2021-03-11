@@ -1,4 +1,4 @@
-package chrvk.hw5.task4;
+package chrvk.javaelementary.hw5.task4;
 
 /*
 Написать рекурсивный(!!!) метод который выводит все перестановки строки.

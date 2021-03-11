@@ -1,4 +1,4 @@
-package chrvk.hw5.task1;
+package chrvk.javaelementary.hw5.task1;
 
 /*
 Есть поле из клеток посредине которого находится робот.
