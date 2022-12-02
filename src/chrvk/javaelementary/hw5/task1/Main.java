@@ -1,14 +1,5 @@
 package chrvk.javaelementary.hw5.task1;
 
-/*
-Есть поле из клеток посредине которого находится робот.
-Робот умеет выполнять 4 команды: двигаться на 1 клетку в сторону:
-R (right), L (left), U (up), and D (down).
-Задана строка из движений робота например "UUDLDR".
-Написать метод который вернет
-true если робот вернется в ту же клетку с которой начал.
-*/
-
 public class Main {
     public static boolean isBack(String move, int[] robotPosition) {
         int[] tmp = new int[robotPosition.length];

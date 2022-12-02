@@ -1,10 +1,5 @@
 package chrvk.javaelementary.hw5.task4;
 
-/*
-Написать рекурсивный(!!!) метод который выводит все перестановки строки.
-Например для строки abc: abc, acb, bac, bca, cab, cba
- */
-
 public class Main {
     private static void permutation(String input, String sofar) {
         if (input.equals("")) {

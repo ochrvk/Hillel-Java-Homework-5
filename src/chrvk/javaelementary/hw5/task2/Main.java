@@ -1,6 +1,5 @@
 package chrvk.javaelementary.hw5.task2;
 
-//Написать метод который проверяет число простое или нет. Если нет вывести все его делители.
 
 import java.util.Random;
 
